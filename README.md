@@ -11,4 +11,3 @@ This is my updated portfolio website built in HTML5 & CSS only.
 
 ## Contact  📧
 Created by [Bimandi](https://bimandibosilu.github.io/personal-portfolio/)
-# updated-personal-portfolio
